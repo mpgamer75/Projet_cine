@@ -1,0 +1,19 @@
+{
+  "name": "projet_cine",
+  "version": "1.0.0",
+  "description": "Projet de test pour faire du code et des commits ",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpgamer75/Projet_cine.git"
+  },
+  "author": "Charles Lantigua Jorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpgamer75/Projet_cine/issues"
+  },
+  "homepage": "https://github.com/mpgamer75/Projet_cine#readme"
+}
