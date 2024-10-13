@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mpgamer75/Projet_cine/issues"
   },
-  "homepage": "https://github.com/mpgamer75/Projet_cine#readme"
+  "homepage": "https://github.com/mpgamer75/Projet_cine#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
